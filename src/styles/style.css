@@ -1,0 +1,37 @@
+.dark-gray-bg {
+	-fx-background-color : #46474A;
+}
+
+.gray-bg {
+	-fx-background-color : #636566 ;
+}
+
+.transparent-background {
+	-fx-background-color : rgba(0,0,0,0) ;
+}
+
+.radius {
+	-fx-background-radius : 100px ;
+}
+
+.light-gray {
+	-fx-background-color : #dadada ;
+}
+
+.incoming-message {
+	-fx-background-color : #ffffff ;
+	-fx-background-radius : 20px ;
+	-fx-text-fill: #9da7a7;
+}
+
+.outgoing-message {
+	-fx-background-color : #50c984 ;
+	-fx-background-radius : 20px ;
+	-fx-text-fill: #ffffff;
+}
+
+.user-text-field {
+	-fx-background-color : #dadada ;
+	-fx-background-radius : 20px ;
+	-fx-text-fill: #000000;
+}
